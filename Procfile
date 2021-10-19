@@ -1,2 +1,1 @@
-worker: npm i @adiwajshing/baileys
-npm start
+worker: npm i @adiwajshing/baileys && node main.js
