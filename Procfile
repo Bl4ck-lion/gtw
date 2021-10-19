@@ -1,2 +1,2 @@
-worker: npm i @adiwajshing/bailey@latest 
+worker: npm i @adiwajshing/baileys
 npm start
